@@ -2,13 +2,13 @@
 
 Summary:	QC Report Generation for affyBatch objects
 Name:		R-%{packname}
-Version:	1.36.0
+Version:	1.40.0
 Release:	1
 License:	LGPL v2+
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	9712a8f30e08dc7798ac9601ec297a06
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	16440fb7fa5920fd36319a5af83eadc7
+URL:		http://bioconductor.org/packages/release/bioc/html/affyQCReport.html
 BuildRequires:	R
 BuildRequires:	R-Biobase
 BuildRequires:	R-affy
